@@ -136,26 +136,8 @@ print(os.listdir('data/'))
 # Bot token to'g'ri kiritilganini tekshiring
 # @BotFather dan yangi token oling
 
-## Muallif ma'lumotlari
-
-**Muallif:** [Sizning ismingiz]
-**Email:** [sizning@email.com]
-**GitHub:** [github.com/sizning-username]
-**LinkedIn:** [linkedin.com/in/sizning-profile]
-
-## Litsenziya
-
-Bu loyiha MIT litsenziyasi ostida.
-Educational va commercial maqsadlarda foydalanish mumkin.
-
 ## Minnatdorchilik
 
 - Telekom dataset uchun Kaggle community
 - Open source kutubxonalar yaratuvchilari
 - Machine Learning community
-
----
-
-**Yaratilgan:** 06/10/2025 01:37:54
-**Joylashuv:** C:\Users\user\Desktop\telekom_churn_analysis
-**Versiya:** 1.0
