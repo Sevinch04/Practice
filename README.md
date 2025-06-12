@@ -8,16 +8,27 @@ yordamida bashorat qilish va biznesga amaliy yechimlar taklif qilish.
 
 telekom_churn_analysis/
 ├── data/                    # Ma'lumotlar (CSV fayllar)
+
 ├── process/                 # Jupyter notebook'lar
+
 │   ├── data_set_cleaning.ipynb
+
 │   └── churn_analysis.ipynb
+
 ├── models/                  # Saqlangan ML modellar
+
 ├── webapp/                  # Streamlit veb-sayt
+
 │   └── app.py
+
 ├── telegram_bot/            # Telegram bot
+
 │   └── bot.py
+
 ├── requirements.txt         # Python kutubxonalar
+
 ├── .gitignore              # Git ignore qoidalari
+
 └── README.txt              # Bu fayl
 
 ## Tezkor boshlash
