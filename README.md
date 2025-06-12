@@ -55,7 +55,7 @@ jupyter notebook notebooks/churn_analysis.ipynb
 ### 5. Veb-saytni ishga tushirish
 cd webapp
 streamlit run app.py
-# Browser'da: http://localhost:8501
+# Browser'da: http://localhost:8502
 
 ### 6. Telegram bot sozlash
 1. @BotFather dan token oling
