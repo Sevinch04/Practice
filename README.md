@@ -8,7 +8,7 @@ yordamida bashorat qilish va biznesga amaliy yechimlar taklif qilish.
 
 telekom_churn_analysis/
 ├── data/                    # Ma'lumotlar (CSV fayllar)
-├── notebooks/               # Jupyter notebook'lar
+├── process/                 # Jupyter notebook'lar
 │   ├── data_set_cleaning.ipynb
 │   └── churn_analysis.ipynb
 ├── models/                  # Saqlangan ML modellar
